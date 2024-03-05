@@ -1,12 +1,12 @@
 # Machine-Translation---LLM
 Language detection and translation using Large Language models
 
-#Goal : 
+### Goal : 
 •	machine translate the titles and abstracts of the example documents into English for documents with unknown language code
 •	Measure inference runtime and performance (examples per second)
 
 
-# Prequisites
+### Prequisites
 - !pip install transformers --quiet
 - !pip install sentencepiece --quiet 
 - !pip install pandas --quiet 
