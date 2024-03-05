@@ -19,4 +19,4 @@ Language detection and translation using Large Language models
 
 ### Result 
 - model                  [ex./sec.]	  runtime performance   title only [ex./sec.]
-- facebook/m2m100_418M     	1.94 GB	         0.35              	1.94
+ facebook/m2m100_418M     	1.94 GB	         0.35              	1.94
