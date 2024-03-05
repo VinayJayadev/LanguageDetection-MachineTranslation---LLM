@@ -18,5 +18,8 @@ Language detection and translation using Large Language models
 ### LLM used : #### facebook/m2m100_418M
 
 ### Result 
-#### model                  [ex./sec.]	  runtime performance   title only [ex./sec.]
-#### facebook/m2m100_418M     	1.94 GB	         0.35              	1.94
+
+#### model :   facebook/m2m100_418M 
+#### model size :   1.94 GB
+#### [ex./sec.]	runtime performance :  0.35 
+#### title only [ex./sec.] : 	 1.94
