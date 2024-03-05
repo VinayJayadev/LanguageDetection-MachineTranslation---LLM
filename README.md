@@ -2,10 +2,10 @@
 Language detection and translation using Large Language models
 
 # Prequisites
-!pip install transformers --quiet \n
-!pip install sentencepiece --quiet \n
-!pip install pandas --quiet \n
-!pip install langcodes  --quiet \n
-!pip install langdetect --quiet \n
-!pip install nltk --quiet \n
-!pip install fasttext-langdetect --quiet \n
+- !pip install transformers --quiet
+- !pip install sentencepiece --quiet 
+- !pip install pandas --quiet 
+- !pip install langcodes  --quiet 
+- !pip install langdetect --quiet 
+- !pip install nltk --quiet 
+- !pip install fasttext-langdetect --quiet 
