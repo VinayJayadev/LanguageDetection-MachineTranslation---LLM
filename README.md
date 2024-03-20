@@ -15,7 +15,7 @@ Language detection and translation using Large Language models
 - !pip install nltk --quiet 
 - !pip install fasttext-langdetect --quiet 
 
-### LLM used : #### facebook/m2m100_418M
+### LLM used :  facebook/m2m100_418M
 
 ### Result 
 
